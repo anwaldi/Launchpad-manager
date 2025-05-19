@@ -1,7 +1,9 @@
-## Voraussetzung: Virtueller MIDI-Port
-Installiere loopMIDI (Windows):
+# Launchpad Manager
+
+### Requirement: Virtual MIDI Port
+Install loopMIDI (Windows):
 https://www.tobias-erichsen.de/software/loopmidi.html
 
-Starte loopMIDI → erstelle Port „LaunchpadOut“
+Start loopMIDI → create a port named "LaunchpadOut"
 
-anwendung die du nutzt: Eingang auf „LaunchpadOut“ stellen
+In the application you are using: set the input to "LaunchpadOut"
